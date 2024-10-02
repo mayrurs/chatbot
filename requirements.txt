@@ -1,7 +1,3 @@
-langchain
 streamlit
 streamlit-chat
-langchain-community 
-langchain-core
-openai
 
