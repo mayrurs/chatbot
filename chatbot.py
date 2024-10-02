@@ -3,7 +3,7 @@ import requests
 import json
 
 # Set the Ollama API endpoint
-OLLAMA_API_URL = 'http://ollama:11434/api/generate'
+OLLAMA_API_URL = 'http://localhost:11434/api/generate'
 
 # Function to interact with Ollama with streaming output
 def get_ollama_response(prompt, placeholder, model='llama3.2'):
